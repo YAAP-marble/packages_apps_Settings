@@ -771,4 +771,10 @@
     <!-- High touch rate -->
     <string name="touch_rate_title">Increase touch polling rate</string>
     <string name="touch_rate_summary">Improves touch response by utilizing a higher polling rate</string>
+
+    <!-- Navigation bar hint -->
+    <string name="show_navbar_hint_title">Navigation hint</string>
+    <string name="show_navbar_hint_summary">Show navigation hint bar at the bottom of the screen</string>
+    <string name="keyboard_no_navigation_title">Keyboard IME space</string>
+    <string name="keyboard_no_navigation_summary">Show space below keyboard when using gesture navigation</string>
 </resources>

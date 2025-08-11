@@ -802,4 +802,8 @@
     <string name="app_downgrade_title">Allow application downgrade</string>
     <string name="app_downgrade_summary">Allow to install an older version over installed applications</string>
     <string name="app_downgrade_info">This may lead to application crashes or data corruption</string>
+
+    <!-- Charging sounds / vibration -->
+    <string name="charging_sounds">Charging sounds</string>
+    <string name="charging_vibrations">Charging vibrations</string>
 </resources>

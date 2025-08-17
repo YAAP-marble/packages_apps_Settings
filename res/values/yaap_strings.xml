@@ -812,4 +812,8 @@
     <string name="wake_on_charge_disabled">@string/disabled</string>
     <string name="wake_on_charge_enabled">Fully wake</string>
     <string name="wake_on_charge_pulse_doze">Pulse doze</string>
+
+    <!-- QS footer data usage -->
+    <string name="qs_show_data_usage_title">Show data usage</string>
+    <string name="qs_show_data_usage_summary">Show daily cellular/Wi-Fi data usage in QS footer</string>
 </resources>
